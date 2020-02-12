@@ -1,5 +1,5 @@
 # CGLE-Finite-Differences-Solver
-A solver for the Ginzburg-Landau Equation based on finite differences. 
+A solver for the Ginzburg-Landau Equation based on finite differences implemented on Matlab. 
 
 Details about the finite differences scheme can be found in https://www.tandfonline.com/doi/abs/10.1080/1023619031000146896?mobileUi=0&journalCode=gdea20.
 
